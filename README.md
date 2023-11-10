@@ -1,0 +1,1 @@
+# pensamentocomptacional1a
